@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/" />
+  <Folder Name="/src/Core/">
+    <Project Path="src/Core/iNEED.Mushni.ApplicationService/iNEED.Mushni.ApplicationService.csproj" />
+    <Project Path="src/Core/iNEED.Mushni.Domain/iNEED.Mushni.Domain.csproj" />
+  </Folder>
+  <Folder Name="/src/Presentation/">
+    <Project Path="src/Presentation/iNEED.Mushni.Worker/iNEED.Mushni.Worker.csproj" />
+  </Folder>
+</Solution>

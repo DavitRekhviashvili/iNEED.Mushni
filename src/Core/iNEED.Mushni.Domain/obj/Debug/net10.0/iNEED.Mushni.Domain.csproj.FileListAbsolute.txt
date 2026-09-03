@@ -1,0 +1,11 @@
+/home/davitrekho/Projects/iNEED.Mushni/src/Core/iNEED.Mushni.Domain/bin/Debug/net10.0/iNEED.Mushni.Domain.deps.json
+/home/davitrekho/Projects/iNEED.Mushni/src/Core/iNEED.Mushni.Domain/bin/Debug/net10.0/iNEED.Mushni.Domain.dll
+/home/davitrekho/Projects/iNEED.Mushni/src/Core/iNEED.Mushni.Domain/bin/Debug/net10.0/iNEED.Mushni.Domain.pdb
+/home/davitrekho/Projects/iNEED.Mushni/src/Core/iNEED.Mushni.Domain/obj/Debug/net10.0/iNEED.Mushni.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/davitrekho/Projects/iNEED.Mushni/src/Core/iNEED.Mushni.Domain/obj/Debug/net10.0/iNEED.Mushni.Domain.AssemblyInfoInputs.cache
+/home/davitrekho/Projects/iNEED.Mushni/src/Core/iNEED.Mushni.Domain/obj/Debug/net10.0/iNEED.Mushni.Domain.AssemblyInfo.cs
+/home/davitrekho/Projects/iNEED.Mushni/src/Core/iNEED.Mushni.Domain/obj/Debug/net10.0/iNEED.Mushni.Domain.csproj.CoreCompileInputs.cache
+/home/davitrekho/Projects/iNEED.Mushni/src/Core/iNEED.Mushni.Domain/obj/Debug/net10.0/iNEED.Mushni.Domain.dll
+/home/davitrekho/Projects/iNEED.Mushni/src/Core/iNEED.Mushni.Domain/obj/Debug/net10.0/refint/iNEED.Mushni.Domain.dll
+/home/davitrekho/Projects/iNEED.Mushni/src/Core/iNEED.Mushni.Domain/obj/Debug/net10.0/iNEED.Mushni.Domain.pdb
+/home/davitrekho/Projects/iNEED.Mushni/src/Core/iNEED.Mushni.Domain/obj/Debug/net10.0/ref/iNEED.Mushni.Domain.dll
