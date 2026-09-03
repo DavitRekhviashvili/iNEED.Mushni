@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("iNEED.Mushni.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+efe87562f8d9544fc0a583db5310028a4e135c1c")]
 [assembly: System.Reflection.AssemblyProductAttribute("iNEED.Mushni.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("iNEED.Mushni.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
