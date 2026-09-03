@@ -1,5 +1,6 @@
 namespace iNEED.Mushni.Domain.Neurons;
 
+//Linear
 public class Neuron
 {
     private double[] _weights;
